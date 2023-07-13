@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dados JSON</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+            <h1 class="mt-5">Dados JSON</h1>
+    
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card mt-4">
+                        <div class="card-body">
+                            <h5 class="card-title">Statisticas</h5>
+                            <p class="card-text">
+                                {% for game in data %}
+                                <p class="list-group-item">{{ game }}</p>
+                                <hr>
+                                {% endfor %}</p>
+                            <a href="#" class="btn btn-primary">Leia Mais</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+</body>
+</html>

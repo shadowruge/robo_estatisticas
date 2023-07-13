@@ -1,0 +1,2463 @@
+{
+    "total": 10,
+    "data": [
+        {
+            "fixtureId": 18760280,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "1xBet",
+                    "1xBet.kz",
+                    "bet365",
+                    "bet365.nj",
+                    "Betclic.pl",
+                    "Wplay",
+                    "Unibet FR",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "STS.pl",
+                    "Betano.pt",
+                    "Bilyoner",
+                    "Winlinebet",
+                    "Betsafe",
+                    "Betsson",
+                    "Nordicbet",
+                    "Superbet.pl",
+                    "Fortuna",
+                    "Fortuna PL",
+                    "Fortuna SK"
+                ],
+                "venue": "Soldier Field",
+                "venueImage": null,
+                "coordinates": "41.862498,-87.616979",
+                "homeFormation": "4-2-3-1",
+                "awayFormation": "3-4-1-2"
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/af6e05bfc4b85083dc7cee62074542089ab20f4868a8e915.png",
+                "name": "Montreal Impact",
+                "shortCode": "MTL",
+                "teamId": 3736
+            },
+            "createdAt": "2022-12-23T11:50:38.472Z",
+            "currentTime": {
+                "minute": 45,
+                "second": null,
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 01:44:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/7f91716f53eec8d0db78e50dd048d3a9ea9e9680c4fd19d2.png",
+                "name": "Chicago Fire",
+                "shortCode": "CHI",
+                "teamId": 75
+            },
+            "league": {
+                "leagueId": 779,
+                "logoPath": "https://cdn.playscores.com/livescores/f158cb05e6e994753475295a33f453265e401f1af6d1ecbf.png",
+                "name": "USA - Major League Soccer",
+                "predictability": "poor",
+                "predictivePower": "unchanged",
+                "ranking": 45729
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 3,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "3-0",
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20901,
+            "stageId": 77460956,
+            "standings": {
+                "homeTeam": 10,
+                "awayTeam": 13
+            },
+            "status": "HT",
+            "time": "01:44:00",
+            "timestamp": 1689212640,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.991Z",
+            "weatherReport": {
+                "code": "clouds",
+                "condition": "broken clouds",
+                "temperature": 19.6,
+                "clouds": "75%",
+                "humidity": "87%",
+                "pressure": 1008,
+                "wind": "12.66 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 62,
+                "AT_over_1_5": 25.233,
+                "AT_under_0_5": 37.998,
+                "AT_under_1_5": 74.765,
+                "HT_over_0_5": 81.951,
+                "HT_over_1_5": 51.052,
+                "HT_under_0_5": 18.047,
+                "HT_under_1_5": 48.946,
+                "away": 21.236,
+                "btts": 50.81,
+                "draw": 23.886,
+                "home": 54.876,
+                "over_0_5": 93.14,
+                "over_1_5": 74.77,
+                "over_2_5": 50.141,
+                "over_3_5": 28.145,
+                "over_4_5": 13.407,
+                "under_0_5": 6.86,
+                "under_1_5": 25.23,
+                "under_2_5": 49.857,
+                "under_3_5": 71.853,
+                "under_4_5": 86.59
+            },
+            "betfairId": 32467191,
+            "stats": {
+                "_id": "64af572136ce9f498753e21d",
+                "fixtureId": 18760280,
+                "attacks": {
+                    "home": 33,
+                    "away": 92
+                },
+                "ballSafe": {
+                    "home": 34,
+                    "away": 43
+                },
+                "corners": {
+                    "home": 0,
+                    "away": 2
+                },
+                "dangerousAttacks": {
+                    "home": 10,
+                    "away": 26
+                },
+                "fouls": {
+                    "home": 6,
+                    "away": 4
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": 4,
+                    "away": 3
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 3,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 1
+                },
+                "possessiontime": {
+                    "home": 35,
+                    "away": 65
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": 0,
+                    "away": 5
+                },
+                "shotsBlocked": {
+                    "home": 0,
+                    "away": 1
+                },
+                "shotsInsidebox": {
+                    "home": 2,
+                    "away": 4
+                },
+                "shotsOffgoal": {
+                    "home": 0,
+                    "away": 6
+                },
+                "shotsOngoal": {
+                    "home": 1,
+                    "away": 0
+                },
+                "shotsOutsidebox": {
+                    "home": 2,
+                    "away": 3
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": 6,
+                    "away": 7
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 1,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af577f36ce9f4987541a6f",
+                "fixtureId": 18760280,
+                "appm1": {
+                    "home": 0.22,
+                    "away": 0.57
+                },
+                "appm2": {
+                    "home": 0,
+                    "away": 0.4
+                },
+                "attack_momentum": {
+                    "home": 4.5,
+                    "away": 15.75
+                },
+                "exg": {
+                    "home": 0.35,
+                    "away": 2
+                },
+                "expiresAt": "2023-07-15T01:20:53.129Z",
+                "mh1": {
+                    "home": 7,
+                    "away": 44
+                },
+                "mh2": {
+                    "home": 0,
+                    "away": 4
+                },
+                "mh3": {
+                    "home": 0,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixtureId": 18760283,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "1xBet",
+                    "1xBet.kz",
+                    "bet365",
+                    "bet365.nj",
+                    "Betclic.pl",
+                    "Wplay",
+                    "Unibet FR",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "STS.pl",
+                    "Betano.pt",
+                    "Bilyoner",
+                    "Winlinebet",
+                    "Betsafe",
+                    "Betsson",
+                    "Nordicbet",
+                    "Superbet.pl",
+                    "Fortuna",
+                    "Fortuna PL",
+                    "Fortuna SK"
+                ],
+                "venue": "First Tennessee Park",
+                "venueImage": null,
+                "coordinates": "36.14014,-86.78389",
+                "homeFormation": "4-2-3-1",
+                "awayFormation": "4-3-1-2"
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/7272e9544ea841bbd09011a39ae3c8d681386317c4ae079d.png",
+                "name": "Philadelphia Union",
+                "shortCode": "PHI",
+                "teamId": 275
+            },
+            "createdAt": "2022-12-23T11:50:38.409Z",
+            "currentTime": {
+                "minute": 90,
+                "second": "32",
+                "addedTime": 14,
+                "extraMinute": null,
+                "injuryTime": 4
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 00:30:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/dfffd53fd6c6878549c13851fb59acb08320492187af2b27.png",
+                "name": "Nashville SC",
+                "shortCode": "NSH",
+                "teamId": 148048
+            },
+            "league": {
+                "leagueId": 779,
+                "logoPath": "https://cdn.playscores.com/livescores/f158cb05e6e994753475295a33f453265e401f1af6d1ecbf.png",
+                "name": "USA - Major League Soccer",
+                "predictability": "poor",
+                "predictivePower": "unchanged",
+                "ranking": 45550
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 2,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "0-1",
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20901,
+            "stageId": 77460956,
+            "standings": {
+                "homeTeam": 3,
+                "awayTeam": 6
+            },
+            "status": "LIVE",
+            "time": "00:30:00",
+            "timestamp": 1689208200,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.965Z",
+            "weatherReport": {
+                "code": "clear",
+                "condition": "clear sky",
+                "temperature": 28.3,
+                "clouds": "0%",
+                "humidity": "72%",
+                "pressure": 1011,
+                "wind": "9.22 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 65.06,
+                "AT_over_1_5": 28.319,
+                "AT_under_0_5": 34.94,
+                "AT_under_1_5": 71.681,
+                "HT_over_0_5": 78.932,
+                "HT_over_1_5": 46.122,
+                "HT_under_0_5": 21.067,
+                "HT_under_1_5": 53.878,
+                "away": 25.619,
+                "btts": 51.354,
+                "draw": 25.348,
+                "home": 49.033,
+                "over_0_5": 92.64,
+                "over_1_5": 73.44,
+                "over_2_5": 48.382,
+                "over_3_5": 26.594,
+                "over_4_5": 12.383,
+                "under_0_5": 7.36,
+                "under_1_5": 26.56,
+                "under_2_5": 51.617,
+                "under_3_5": 73.405,
+                "under_4_5": 87.617
+            },
+            "betfairId": 32467212,
+            "stats": {
+                "_id": "64af47fa36ce9f4987505f95",
+                "fixtureId": 18760283,
+                "attacks": {
+                    "home": 94,
+                    "away": 72
+                },
+                "ballSafe": {
+                    "home": 67,
+                    "away": 55
+                },
+                "corners": {
+                    "home": 7,
+                    "away": 3
+                },
+                "dangerousAttacks": {
+                    "home": 41,
+                    "away": 21
+                },
+                "fouls": {
+                    "home": 7,
+                    "away": 13
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": 9,
+                    "away": 7
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 2
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 2
+                },
+                "possessiontime": {
+                    "home": 59,
+                    "away": 41
+                },
+                "redcards": {
+                    "home": 2,
+                    "away": 1
+                },
+                "saves": {
+                    "home": 8,
+                    "away": 2
+                },
+                "shotsBlocked": {
+                    "home": 3,
+                    "away": 1
+                },
+                "shotsInsidebox": {
+                    "home": 15,
+                    "away": 2
+                },
+                "shotsOffgoal": {
+                    "home": 17,
+                    "away": 3
+                },
+                "shotsOngoal": {
+                    "home": 1,
+                    "away": 4
+                },
+                "shotsOutsidebox": {
+                    "home": 4,
+                    "away": 7
+                },
+                "substitutions": {
+                    "home": 5,
+                    "away": 4
+                },
+                "tackles": {
+                    "home": 11,
+                    "away": 13
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 3,
+                    "away": 2
+                },
+                "yellowredcards": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af480b36ce9f4987506276",
+                "fixtureId": 18760283,
+                "appm1": {
+                    "home": 0.45,
+                    "away": 0.23
+                },
+                "appm2": {
+                    "home": 0.2,
+                    "away": 0.3
+                },
+                "attack_momentum": {
+                    "home": 7.5,
+                    "away": 8.75
+                },
+                "exg": {
+                    "home": 0.65,
+                    "away": 0.4
+                },
+                "expiresAt": "2023-07-14T22:00:43.835Z",
+                "mh1": {
+                    "home": 12,
+                    "away": 9
+                },
+                "mh2": {
+                    "home": 3,
+                    "away": 4
+                },
+                "mh3": {
+                    "home": -2,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixtureId": 18760281,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "1xBet",
+                    "1xBet.kz",
+                    "bet365",
+                    "bet365.nj",
+                    "Betclic.pl",
+                    "Wplay",
+                    "Veikkaus TV",
+                    "Unibet FR",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "STS.pl",
+                    "Betano.pt",
+                    "Bilyoner",
+                    "Winlinebet",
+                    "Betsafe",
+                    "Betsson",
+                    "Nordicbet",
+                    "Superbet.pl",
+                    "Fortuna",
+                    "Fortuna PL",
+                    "Fortuna SK"
+                ],
+                "venue": "Shell Energy Stadium",
+                "venueImage": null,
+                "coordinates": "54.3982667,-126.6477077",
+                "homeFormation": "4-2-3-1",
+                "awayFormation": "4-2-3-1"
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/f02984f199eaa658059f2b598a6366771340d8682f7243ef.png",
+                "name": "Minnesota United",
+                "shortCode": "MIN",
+                "teamId": 3639
+            },
+            "createdAt": "2022-12-23T11:50:38.451Z",
+            "currentTime": {
+                "minute": 90,
+                "second": "45",
+                "addedTime": 8,
+                "extraMinute": null,
+                "injuryTime": 3
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 00:30:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/67439a48d4f81a01d4ca26252ff32f4ff08a86567442cef4.png",
+                "name": "Houston Dynamo",
+                "shortCode": "HOU",
+                "teamId": 478
+            },
+            "league": {
+                "leagueId": 779,
+                "logoPath": "https://cdn.playscores.com/livescores/f158cb05e6e994753475295a33f453265e401f1af6d1ecbf.png",
+                "name": "USA - Major League Soccer",
+                "predictability": "poor",
+                "predictivePower": "unchanged",
+                "ranking": 45550
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 3,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "0-2",
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20901,
+            "stageId": 77460956,
+            "standings": {
+                "homeTeam": 8,
+                "awayTeam": 11
+            },
+            "status": "LIVE",
+            "time": "00:30:00",
+            "timestamp": 1689208200,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.956Z",
+            "weatherReport": {
+                "code": "clear",
+                "condition": "clear sky",
+                "temperature": 30.3,
+                "clouds": "0%",
+                "humidity": "76%",
+                "pressure": 1011,
+                "wind": "18.41 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 64.33,
+                "AT_over_1_5": 27.558,
+                "AT_under_0_5": 35.666,
+                "AT_under_1_5": 72.438,
+                "HT_over_0_5": 79.538,
+                "HT_over_1_5": 47.076,
+                "HT_under_0_5": 20.459,
+                "HT_under_1_5": 52.92,
+                "away": 24.631,
+                "btts": 51.168,
+                "draw": 25.1,
+                "home": 50.265,
+                "over_0_5": 92.7,
+                "over_1_5": 73.61,
+                "over_2_5": 48.597,
+                "over_3_5": 26.781,
+                "over_4_5": 12.505,
+                "under_0_5": 7.3,
+                "under_1_5": 26.39,
+                "under_2_5": 51.4,
+                "under_3_5": 73.216,
+                "under_4_5": 87.491
+            },
+            "betfairId": 32467205,
+            "stats": {
+                "_id": "64af483836ce9f4987506893",
+                "fixtureId": 18760281,
+                "attacks": {
+                    "home": 133,
+                    "away": 60
+                },
+                "ballSafe": {
+                    "home": 62,
+                    "away": 63
+                },
+                "corners": {
+                    "home": 8,
+                    "away": 1
+                },
+                "dangerousAttacks": {
+                    "home": 97,
+                    "away": 19
+                },
+                "fouls": {
+                    "home": 9,
+                    "away": 9
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": 12,
+                    "away": 4
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 3
+                },
+                "injuries": {
+                    "home": 2,
+                    "away": 2
+                },
+                "offsides": {
+                    "home": 2,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 73,
+                    "away": 27
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": 2,
+                    "away": 11
+                },
+                "shotsBlocked": {
+                    "home": 4,
+                    "away": 1
+                },
+                "shotsInsidebox": {
+                    "home": 14,
+                    "away": 3
+                },
+                "shotsOffgoal": {
+                    "home": 14,
+                    "away": 4
+                },
+                "shotsOngoal": {
+                    "home": 5,
+                    "away": 1
+                },
+                "shotsOutsidebox": {
+                    "home": 7,
+                    "away": 5
+                },
+                "substitutions": {
+                    "home": 5,
+                    "away": 4
+                },
+                "tackles": {
+                    "home": 8,
+                    "away": 16
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 2,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af47e136ce9f4987504e79",
+                "fixtureId": 18760281,
+                "appm1": {
+                    "home": 1.04,
+                    "away": 0.2
+                },
+                "appm2": {
+                    "home": 1.3,
+                    "away": 0.1
+                },
+                "attack_momentum": {
+                    "home": 15.75,
+                    "away": 6.25
+                },
+                "exg": {
+                    "home": 2,
+                    "away": 0.8
+                },
+                "expiresAt": "2023-07-15T00:20:46.837Z",
+                "mh1": {
+                    "home": 35,
+                    "away": 16
+                },
+                "mh2": {
+                    "home": 10,
+                    "away": 2
+                },
+                "mh3": {
+                    "home": 5,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixtureId": 18795937,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [],
+                "venue": "Whittier College Field",
+                "venueImage": null,
+                "coordinates": "33.96117,-118.03049",
+                "homeFormation": null,
+                "awayFormation": null
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Redlands",
+                "shortCode": null,
+                "teamId": 267747
+            },
+            "createdAt": "2023-02-28T14:10:55.856Z",
+            "currentTime": {
+                "minute": 29,
+                "second": "48",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 02:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/3cc00f6562ec24b4f6a8ef25f0587993b7d4e1b5eefd4070.png",
+                "name": "Seahorses",
+                "shortCode": null,
+                "teamId": 150516
+            },
+            "league": {
+                "leagueId": 797,
+                "logoPath": "https://cdn.playscores.com/livescores/6743982da41cd4dfa006464b292565cacfb143edbaf8d591.png",
+                "name": "USA - USL League Two",
+                "predictability": "medium",
+                "predictivePower": "down",
+                "ranking": 11841
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": null,
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20488,
+            "stageId": 77459831,
+            "standings": {
+                "homeTeam": 10,
+                "awayTeam": 6
+            },
+            "status": "LIVE",
+            "time": "02:00:00",
+            "timestamp": 1689213600,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:36:00.005Z",
+            "weatherReport": {
+                "code": "clear",
+                "condition": "clear sky",
+                "temperature": 28.3,
+                "clouds": "0%",
+                "humidity": "27%",
+                "pressure": 1012,
+                "wind": "9.22 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 78.125,
+                "AT_over_1_5": 44.881,
+                "AT_under_0_5": 21.869,
+                "AT_under_1_5": 55.113,
+                "HT_over_0_5": 81.744,
+                "HT_over_1_5": 50.702,
+                "HT_under_0_5": 18.249,
+                "HT_under_1_5": 49.291,
+                "away": 34.522,
+                "btts": 63.867,
+                "draw": 23.243,
+                "home": 42.228,
+                "over_0_5": 96.01,
+                "over_1_5": 83.15,
+                "over_2_5": 62.441,
+                "over_3_5": 40.211,
+                "over_4_5": 22.31,
+                "under_0_5": 3.99,
+                "under_1_5": 16.85,
+                "under_2_5": 37.552,
+                "under_3_5": 59.782,
+                "under_4_5": 77.684
+            },
+            "stats": {
+                "_id": "64af5c5836ce9f4987555ab1",
+                "fixtureId": 18795937,
+                "attacks": {
+                    "home": 37,
+                    "away": 28
+                },
+                "ballSafe": {
+                    "home": 26,
+                    "away": 25
+                },
+                "corners": {
+                    "home": 0,
+                    "away": 5
+                },
+                "dangerousAttacks": {
+                    "home": 18,
+                    "away": 21
+                },
+                "fouls": {
+                    "home": null,
+                    "away": null
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": null,
+                    "away": null
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 45,
+                    "away": 55
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsBlocked": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsInsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsOffgoal": {
+                    "home": 0,
+                    "away": 3
+                },
+                "shotsOngoal": {
+                    "home": 0,
+                    "away": 2
+                },
+                "shotsOutsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": null,
+                    "away": null
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 1,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af5c6036ce9f4987555c04",
+                "fixtureId": 18795937,
+                "appm1": {
+                    "home": 0.59,
+                    "away": 0.69
+                },
+                "appm2": {
+                    "home": 0.5,
+                    "away": 0.7
+                },
+                "attack_momentum": {
+                    "home": 14.75,
+                    "away": 5.25
+                },
+                "exg": {
+                    "home": 0.8,
+                    "away": 2
+                },
+                "expiresAt": "2023-07-15T02:00:27.941Z",
+                "mh1": {
+                    "home": 9,
+                    "away": 31
+                },
+                "mh2": {
+                    "home": 4,
+                    "away": 7
+                },
+                "mh3": {
+                    "home": 0,
+                    "away": 6
+                }
+            }
+        },
+        {
+            "fixtureId": 18805444,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [],
+                "venue": null,
+                "venueImage": null,
+                "coordinates": null,
+                "homeFormation": null,
+                "awayFormation": null
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Marin",
+                "shortCode": null,
+                "teamId": 260887
+            },
+            "createdAt": "2023-03-20T17:40:38.616Z",
+            "currentTime": {
+                "minute": 35,
+                "second": "15",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 02:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Davis Legacy",
+                "shortCode": null,
+                "teamId": 260879
+            },
+            "league": {
+                "leagueId": 797,
+                "logoPath": "https://cdn.playscores.com/livescores/6743982da41cd4dfa006464b292565cacfb143edbaf8d591.png",
+                "name": "USA - USL League Two",
+                "predictability": "medium",
+                "predictivePower": "down",
+                "ranking": 11833
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": null,
+                "ftScore": "",
+                "etScore": "",
+                "psScore": null
+            },
+            "seasonId": 20488,
+            "stageId": 77459831,
+            "standings": {
+                "homeTeam": null,
+                "awayTeam": 18
+            },
+            "status": "LIVE",
+            "time": "02:00:00",
+            "timestamp": 1689213600,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:36:00.014Z",
+            "weatherReport": {},
+            "probabilities": {
+                "AT_over_0_5": 77.138,
+                "AT_over_1_5": 43.404,
+                "AT_under_0_5": 22.852,
+                "AT_under_1_5": 56.586,
+                "HT_over_0_5": 81.949,
+                "HT_over_1_5": 51.051,
+                "HT_under_0_5": 18.042,
+                "HT_under_1_5": 48.94,
+                "away": 33.296,
+                "btts": 63.22,
+                "draw": 23.307,
+                "home": 43.389,
+                "over_0_5": 95.88,
+                "over_1_5": 82.73,
+                "over_2_5": 61.759,
+                "over_3_5": 39.482,
+                "over_4_5": 21.724,
+                "under_0_5": 4.12,
+                "under_1_5": 17.27,
+                "under_2_5": 38.233,
+                "under_3_5": 60.51,
+                "under_4_5": 78.267
+            },
+            "stats": {
+                "_id": "64af5b1036ce9f49875520b1",
+                "fixtureId": 18805444,
+                "attacks": {
+                    "home": 31,
+                    "away": 41
+                },
+                "ballSafe": {
+                    "home": null,
+                    "away": null
+                },
+                "corners": {
+                    "home": 1,
+                    "away": 3
+                },
+                "dangerousAttacks": {
+                    "home": 12,
+                    "away": 26
+                },
+                "fouls": {
+                    "home": null,
+                    "away": null
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": null,
+                    "away": null
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": null,
+                    "away": null
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsBlocked": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsInsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsOffgoal": {
+                    "home": 2,
+                    "away": 2
+                },
+                "shotsOngoal": {
+                    "home": 1,
+                    "away": 2
+                },
+                "shotsOutsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": null,
+                    "away": null
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 0,
+                    "away": 1
+                },
+                "yellowredcards": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "pressureStats": {
+                "_id": "64af5afc36ce9f4987551afa",
+                "fixtureId": 18805444,
+                "appm1": {
+                    "home": 0.35,
+                    "away": 0.76
+                },
+                "appm2": {
+                    "home": 0.2,
+                    "away": 0.5
+                },
+                "attack_momentum": {
+                    "home": 2.5,
+                    "away": 6.25
+                },
+                "exg": {
+                    "home": 0.6,
+                    "away": 1.6
+                },
+                "expiresAt": "2023-07-14T23:10:52.560Z",
+                "mh1": {
+                    "home": 0,
+                    "away": 20
+                },
+                "mh2": {
+                    "home": 2,
+                    "away": 5
+                },
+                "mh3": {
+                    "home": 0,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixtureId": 18795935,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [],
+                "venue": "McCulloch Stadium",
+                "venueImage": null,
+                "coordinates": "11.65120,78.15870",
+                "homeFormation": null,
+                "awayFormation": null
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Ballard",
+                "shortCode": null,
+                "teamId": 260869
+            },
+            "createdAt": "2023-02-28T14:10:55.940Z",
+            "currentTime": {
+                "minute": 35,
+                "second": "55",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 02:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Capital",
+                "shortCode": null,
+                "teamId": 261289
+            },
+            "league": {
+                "leagueId": 797,
+                "logoPath": "https://cdn.playscores.com/livescores/6743982da41cd4dfa006464b292565cacfb143edbaf8d591.png",
+                "name": "USA - USL League Two",
+                "predictability": "medium",
+                "predictivePower": "down",
+                "ranking": 11832
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 1,
+                "awayTeamScore": 1,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": null,
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20488,
+            "stageId": 77459831,
+            "standings": {
+                "homeTeam": 13,
+                "awayTeam": 1
+            },
+            "status": "LIVE",
+            "time": "02:00:00",
+            "timestamp": 1689213600,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:36:00.005Z",
+            "weatherReport": {
+                "code": "rain",
+                "condition": "moderate rain",
+                "temperature": 25,
+                "clouds": "100%",
+                "humidity": "86%",
+                "pressure": 1010,
+                "wind": "3.47 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 92.442,
+                "AT_over_1_5": 72.924,
+                "AT_under_0_5": 7.556,
+                "AT_under_1_5": 27.073,
+                "HT_over_0_5": 58.522,
+                "HT_over_1_5": 22.021,
+                "HT_under_0_5": 41.475,
+                "HT_under_1_5": 77.977,
+                "away": 73.983,
+                "btts": 54.101,
+                "draw": 15.487,
+                "home": 10.527,
+                "over_0_5": 96.87,
+                "over_1_5": 86.01,
+                "over_2_5": 67.22,
+                "over_3_5": 45.53,
+                "over_4_5": 26.752,
+                "under_0_5": 3.13,
+                "under_1_5": 13.99,
+                "under_2_5": 32.778,
+                "under_3_5": 54.467,
+                "under_4_5": 73.245
+            },
+            "stats": {
+                "_id": "64af5ad136ce9f4987550f37",
+                "fixtureId": 18795935,
+                "attacks": {
+                    "home": 46,
+                    "away": 49
+                },
+                "ballSafe": {
+                    "home": 33,
+                    "away": 31
+                },
+                "corners": {
+                    "home": 1,
+                    "away": 1
+                },
+                "dangerousAttacks": {
+                    "home": 20,
+                    "away": 25
+                },
+                "fouls": {
+                    "home": null,
+                    "away": null
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 1,
+                    "away": 1
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": null,
+                    "away": null
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": null,
+                    "away": null
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsBlocked": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsInsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsOffgoal": {
+                    "home": 2,
+                    "away": 6
+                },
+                "shotsOngoal": {
+                    "home": 2,
+                    "away": 2
+                },
+                "shotsOutsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": null,
+                    "away": null
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af5afc36ce9f4987551ae3",
+                "fixtureId": 18795935,
+                "appm1": {
+                    "home": 0.57,
+                    "away": 0.69
+                },
+                "appm2": {
+                    "home": 0.5,
+                    "away": 0.6
+                },
+                "attack_momentum": {
+                    "home": 6.25,
+                    "away": 13.25
+                },
+                "exg": {
+                    "home": 1.25,
+                    "away": 1.75
+                },
+                "expiresAt": "2023-07-14T23:10:52.560Z",
+                "mh1": {
+                    "home": 10,
+                    "away": 20
+                },
+                "mh2": {
+                    "home": 5,
+                    "away": 7
+                },
+                "mh3": {
+                    "home": 1,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixtureId": 18764650,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "Betsafe",
+                    "Betsson",
+                    "Nordicbet",
+                    "Superbet.pl",
+                    "bet365",
+                    "bet365.nj",
+                    "STS.pl",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "Betano.pt",
+                    "Winlinebet"
+                ],
+                "venue": "Ningineer Stadium",
+                "venueImage": null,
+                "coordinates": "33.768245,132.797718",
+                "homeFormation": "4-1-4-1",
+                "awayFormation": "4-2-3-1"
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/985607e41eba5799f209f6c432ca866d9b55dc3a766039ef.png",
+                "name": "Memphis 901",
+                "shortCode": null,
+                "teamId": 233259
+            },
+            "createdAt": "2023-01-05T02:40:13.664Z",
+            "currentTime": {
+                "minute": 29,
+                "second": "14",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 02:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/e9cf8a5db198a80cbb55e1f86da47afee310d00cd96d23b9.png",
+                "name": "Oakland Roots",
+                "shortCode": null,
+                "teamId": 239438
+            },
+            "league": {
+                "leagueId": 791,
+                "logoPath": "https://cdn.playscores.com/livescores/7c8b5e68fbbf0bdeb1b816118cac1e55602dafcc879bef45.png",
+                "name": "USA - USL Championship",
+                "predictability": "medium",
+                "predictivePower": "unchanged",
+                "ranking": 11054
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": null,
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20966,
+            "stageId": 77461183,
+            "standings": {
+                "homeTeam": 6,
+                "awayTeam": 3
+            },
+            "status": "LIVE",
+            "time": "02:00:00",
+            "timestamp": 1689213600,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.995Z",
+            "weatherReport": {
+                "code": "clouds",
+                "condition": "broken clouds",
+                "temperature": 26.8,
+                "clouds": "75%",
+                "humidity": "83%",
+                "pressure": 1009,
+                "wind": "5.75 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 68.761,
+                "AT_over_1_5": 32.416,
+                "AT_under_0_5": 31.237,
+                "AT_under_1_5": 67.582,
+                "HT_over_0_5": 78.03,
+                "HT_over_1_5": 44.735,
+                "HT_under_0_5": 21.968,
+                "HT_under_1_5": 55.263,
+                "away": 29.169,
+                "btts": 53.655,
+                "draw": 25.466,
+                "home": 45.361,
+                "over_0_5": 93.14,
+                "over_1_5": 74.75,
+                "over_2_5": 50.125,
+                "over_3_5": 28.131,
+                "under_0_5": 6.86,
+                "under_1_5": 25.25,
+                "under_2_5": 49.873,
+                "under_3_5": 71.866,
+                "over_4_5": 13.399,
+                "under_4_5": 86.598
+            },
+            "betfairId": 32207606,
+            "stats": {
+                "_id": "64af5c5836ce9f4987555aac",
+                "fixtureId": 18764650,
+                "attacks": {
+                    "home": 31,
+                    "away": 47
+                },
+                "ballSafe": {
+                    "home": 32,
+                    "away": 33
+                },
+                "corners": {
+                    "home": 0,
+                    "away": 0
+                },
+                "dangerousAttacks": {
+                    "home": 12,
+                    "away": 13
+                },
+                "fouls": {
+                    "home": 19,
+                    "away": 10
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": 0,
+                    "away": 5
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 68,
+                    "away": 32
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": 1,
+                    "away": 1
+                },
+                "shotsBlocked": {
+                    "home": 8,
+                    "away": 0
+                },
+                "shotsInsidebox": {
+                    "home": 16,
+                    "away": 6
+                },
+                "shotsOffgoal": {
+                    "home": 1,
+                    "away": 1
+                },
+                "shotsOngoal": {
+                    "home": 1,
+                    "away": 1
+                },
+                "shotsOutsidebox": {
+                    "home": 9,
+                    "away": 1
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": 9,
+                    "away": 6
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af5c6036ce9f4987555be2",
+                "fixtureId": 18764650,
+                "appm1": {
+                    "home": 0.43,
+                    "away": 0.43
+                },
+                "appm2": {
+                    "home": 0.3,
+                    "away": 0.5
+                },
+                "attack_momentum": {
+                    "home": 4.5,
+                    "away": 8
+                },
+                "exg": {
+                    "home": 0.75,
+                    "away": 1.5
+                },
+                "expiresAt": "2023-07-14T23:10:52.560Z",
+                "mh1": {
+                    "home": 8,
+                    "away": 13
+                },
+                "mh2": {
+                    "home": 4,
+                    "away": 4
+                },
+                "mh3": {
+                    "home": 0,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixtureId": 18767191,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "Superbet.pl",
+                    "bet365",
+                    "bet365.nj",
+                    "STS.pl",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "Betano.pt",
+                    "Winlinebet",
+                    "1xBet",
+                    "1xBet.kz",
+                    "Fortuna",
+                    "Fortuna PL",
+                    "Fortuna SK"
+                ],
+                "venue": "ONEOK Field",
+                "venueImage": null,
+                "coordinates": "36.1598937,-95.9882559",
+                "homeFormation": null,
+                "awayFormation": null
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/d3862277b69f925a8e60325ca8ea5f3cea2be289f6fb0d62.png",
+                "name": "Miami FC II",
+                "shortCode": null,
+                "teamId": 168235
+            },
+            "createdAt": "2023-01-10T02:40:20.385Z",
+            "currentTime": {
+                "minute": 67,
+                "second": "36",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 01:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/7325369d05615edc8f318102fc97400b5ab2199e88d2f6ed.png",
+                "name": "Tulsa Roughnecks",
+                "shortCode": null,
+                "teamId": 1600
+            },
+            "league": {
+                "leagueId": 791,
+                "logoPath": "https://cdn.playscores.com/livescores/7c8b5e68fbbf0bdeb1b816118cac1e55602dafcc879bef45.png",
+                "name": "USA - USL Championship",
+                "predictability": "medium",
+                "predictivePower": "unchanged",
+                "ranking": 10998
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 0,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "0-0",
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20966,
+            "stageId": 77461183,
+            "standings": {
+                "homeTeam": 11,
+                "awayTeam": 10
+            },
+            "status": "LIVE",
+            "time": "01:00:00",
+            "timestamp": 1689210000,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.987Z",
+            "weatherReport": {
+                "code": "clear",
+                "condition": "clear sky",
+                "temperature": 31.2,
+                "clouds": "0%",
+                "humidity": "75%",
+                "pressure": 1007,
+                "wind": "6.91 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 71.172,
+                "AT_over_1_5": 35.316,
+                "AT_under_0_5": 28.82,
+                "AT_under_1_5": 64.676,
+                "HT_over_0_5": 76.195,
+                "HT_over_1_5": 42.031,
+                "HT_under_0_5": 23.798,
+                "HT_under_1_5": 57.962,
+                "away": 32.678,
+                "btts": 54.233,
+                "draw": 25.793,
+                "home": 41.522,
+                "over_0_5": 93.14,
+                "over_1_5": 74.76,
+                "over_2_5": 50.128,
+                "over_3_5": 28.134,
+                "over_4_5": 13.399,
+                "under_0_5": 6.86,
+                "under_1_5": 25.24,
+                "under_2_5": 49.864,
+                "under_3_5": 71.859,
+                "under_4_5": 86.594
+            },
+            "betfairId": 32467986,
+            "stats": {
+                "_id": "64af4e8536ce9f4987521d10",
+                "fixtureId": 18767191,
+                "attacks": {
+                    "home": 74,
+                    "away": 70
+                },
+                "ballSafe": {
+                    "home": 59,
+                    "away": 49
+                },
+                "corners": {
+                    "home": 1,
+                    "away": 1
+                },
+                "dangerousAttacks": {
+                    "home": 36,
+                    "away": 28
+                },
+                "fouls": {
+                    "home": null,
+                    "away": null
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 0,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": 0,
+                    "away": 1
+                },
+                "offsides": {
+                    "home": null,
+                    "away": null
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 59,
+                    "away": 41
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsBlocked": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsInsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsOffgoal": {
+                    "home": 5,
+                    "away": 2
+                },
+                "shotsOngoal": {
+                    "home": 0,
+                    "away": 0
+                },
+                "shotsOutsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "substitutions": {
+                    "home": 1,
+                    "away": 2
+                },
+                "tackles": {
+                    "home": null,
+                    "away": null
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 3,
+                    "away": 1
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af4e8636ce9f4987521dc2",
+                "fixtureId": 18767191,
+                "appm1": {
+                    "home": 0.53,
+                    "away": 0.41
+                },
+                "appm2": {
+                    "home": 0.4,
+                    "away": 0.1
+                },
+                "attack_momentum": {
+                    "home": 8.25,
+                    "away": 1.25
+                },
+                "exg": {
+                    "home": 1.25,
+                    "away": 0.5
+                },
+                "expiresAt": "2023-07-15T01:00:35.513Z",
+                "mh1": {
+                    "home": 22,
+                    "away": 9
+                },
+                "mh2": {
+                    "home": 3,
+                    "away": 2
+                },
+                "mh3": {
+                    "home": 3,
+                    "away": 2
+                }
+            }
+        },
+        {
+            "fixtureId": 18767190,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [
+                    "Superbet.pl",
+                    "bet365",
+                    "bet365.nj",
+                    "STS.pl",
+                    "Chance",
+                    "Tipsport",
+                    "Tipsport SK",
+                    "Betano.pt",
+                    "Winlinebet",
+                    "1xBet",
+                    "1xBet.kz",
+                    "Fortuna",
+                    "Fortuna PL",
+                    "Fortuna SK"
+                ],
+                "venue": "Southwest University Park",
+                "venueImage": null,
+                "coordinates": "31.7592279,-106.4928616",
+                "homeFormation": "4-1-4-1",
+                "awayFormation": "4-2-3-1"
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/0ced226869a1f54e171edcfaa426a846e19ba8cebdc5f7d0.png",
+                "name": "San Antonio",
+                "shortCode": null,
+                "teamId": 8650
+            },
+            "createdAt": "2023-01-10T02:40:30.141Z",
+            "currentTime": {
+                "minute": 69,
+                "second": "26",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 01:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/1fd8e1cd89d6f29da85ea2e5dfe4204a59e98e54dc731b3a.png",
+                "name": "El Paso Locomotive",
+                "shortCode": null,
+                "teamId": 254565
+            },
+            "league": {
+                "leagueId": 791,
+                "logoPath": "https://cdn.playscores.com/livescores/7c8b5e68fbbf0bdeb1b816118cac1e55602dafcc879bef45.png",
+                "name": "USA - USL Championship",
+                "predictability": "medium",
+                "predictivePower": "unchanged",
+                "ranking": 10997
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 1,
+                "awayTeamScore": 2,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "1-0",
+                "ftScore": null,
+                "etScore": null,
+                "psScore": null
+            },
+            "seasonId": 20966,
+            "stageId": 77461183,
+            "standings": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "status": "LIVE",
+            "time": "01:00:00",
+            "timestamp": 1689210000,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:35:59.987Z",
+            "weatherReport": {
+                "code": "clouds",
+                "condition": "scattered clouds",
+                "temperature": 35.5,
+                "clouds": "40%",
+                "humidity": "24%",
+                "pressure": 1015,
+                "wind": "11.5 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 72.836,
+                "AT_over_1_5": 37.436,
+                "AT_under_0_5": 27.156,
+                "AT_under_1_5": 62.556,
+                "HT_over_0_5": 75.884,
+                "HT_over_1_5": 41.59,
+                "HT_under_0_5": 24.107,
+                "HT_under_1_5": 58.402,
+                "away": 34.454,
+                "btts": 55.276,
+                "draw": 25.621,
+                "home": 39.916,
+                "over_0_5": 93.45,
+                "over_1_5": 75.61,
+                "over_2_5": 51.269,
+                "over_3_5": 29.16,
+                "over_4_5": 14.093,
+                "under_0_5": 6.55,
+                "under_1_5": 24.39,
+                "under_2_5": 48.723,
+                "under_3_5": 70.83,
+                "under_4_5": 85.898
+            },
+            "betfairId": 32467985,
+            "stats": {
+                "_id": "64af4e4036ce9f498752122a",
+                "fixtureId": 18767190,
+                "attacks": {
+                    "home": 84,
+                    "away": 75
+                },
+                "ballSafe": {
+                    "home": 74,
+                    "away": 60
+                },
+                "corners": {
+                    "home": 2,
+                    "away": 4
+                },
+                "dangerousAttacks": {
+                    "home": 38,
+                    "away": 52
+                },
+                "fouls": {
+                    "home": 19,
+                    "away": 10
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 1,
+                    "away": 2
+                },
+                "injuries": {
+                    "home": 0,
+                    "away": 1
+                },
+                "offsides": {
+                    "home": 0,
+                    "away": 5
+                },
+                "penalties": {
+                    "home": 1,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 68,
+                    "away": 32
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": 1,
+                    "away": 1
+                },
+                "shotsBlocked": {
+                    "home": 8,
+                    "away": 0
+                },
+                "shotsInsidebox": {
+                    "home": 16,
+                    "away": 7
+                },
+                "shotsOffgoal": {
+                    "home": 4,
+                    "away": 4
+                },
+                "shotsOngoal": {
+                    "home": 4,
+                    "away": 4
+                },
+                "shotsOutsidebox": {
+                    "home": 9,
+                    "away": 1
+                },
+                "substitutions": {
+                    "home": 1,
+                    "away": 2
+                },
+                "tackles": {
+                    "home": 9,
+                    "away": 6
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 2,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "pressureStats": {
+                "_id": "64af4e5436ce9f49875215cc",
+                "fixtureId": 18767190,
+                "appm1": {
+                    "home": 0.55,
+                    "away": 0.75
+                },
+                "appm2": {
+                    "home": 0.8,
+                    "away": 0.5
+                },
+                "attack_momentum": {
+                    "home": 13.25,
+                    "away": 5.75
+                },
+                "exg": {
+                    "home": 1.55,
+                    "away": 1.45
+                },
+                "expiresAt": "2023-07-15T01:01:05.027Z",
+                "mh1": {
+                    "home": 10,
+                    "away": 20
+                },
+                "mh2": {
+                    "home": 9,
+                    "away": 3
+                },
+                "mh3": {
+                    "home": 2,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixtureId": 18805703,
+            "additionalInfo": {
+                "referee": null,
+                "tvStations": [],
+                "venue": "Dignity Health Sports Park",
+                "venueImage": null,
+                "coordinates": "33.864444,-118.261111",
+                "homeFormation": null,
+                "awayFormation": null
+            },
+            "awayTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/171a97c98a7750f10198f6f57ac4c3dc1e4c088a410ecd1c.png",
+                "name": "Los Angeles II",
+                "shortCode": null,
+                "teamId": 268016
+            },
+            "createdAt": "2023-03-20T18:20:48.322Z",
+            "currentTime": {
+                "minute": 32,
+                "second": "45",
+                "addedTime": null,
+                "extraMinute": null,
+                "injuryTime": null
+            },
+            "date": "2023-07-13",
+            "dateTime": "2023-07-13 02:00:00",
+            "homeTeam": {
+                "logoPath": "https://cdn.playscores.com/livescores/e746ae3ab5bdfcfb044ac79bc03e901b5752b456dabdd9d0.png",
+                "name": "LA Galaxy II",
+                "shortCode": "LAG",
+                "teamId": 1419
+            },
+            "league": {
+                "leagueId": 2545,
+                "logoPath": "https://cdn.playscores.com/livescores/c742d96719d91716e63cf6608a59ef58382796e3e8a108b3.png",
+                "name": "USA - MLS Next Pro",
+                "predictability": "poor",
+                "predictivePower": "up",
+                "ranking": 9489
+            },
+            "popularity": 0,
+            "roundId": null,
+            "scores": {
+                "homeTeamScore": 1,
+                "awayTeamScore": 0,
+                "homeTeamPenaltyScore": null,
+                "awayTeamPenaltyScore": null,
+                "htScore": "",
+                "ftScore": "",
+                "etScore": "",
+                "psScore": ""
+            },
+            "seasonId": 20817,
+            "stageId": 77460706,
+            "standings": {
+                "homeTeam": 14,
+                "awayTeam": 12
+            },
+            "status": "LIVE",
+            "time": "02:00:00",
+            "timestamp": 1689213600,
+            "timezone": "UTC",
+            "updatedAt": "2023-07-13T02:36:00.014Z",
+            "weatherReport": {
+                "code": "clear",
+                "condition": "clear sky",
+                "temperature": 24.6,
+                "clouds": "0%",
+                "humidity": "53%",
+                "pressure": 1013,
+                "wind": "13.8 m/s"
+            },
+            "probabilities": {
+                "AT_over_0_5": 74.139,
+                "AT_over_1_5": 39.166,
+                "AT_under_0_5": 25.855,
+                "AT_under_1_5": 60.828,
+                "HT_over_0_5": 83.923,
+                "HT_over_1_5": 54.545,
+                "HT_under_0_5": 16.07,
+                "HT_under_1_5": 45.449,
+                "away": 28.483,
+                "btts": 62.224,
+                "draw": 22.826,
+                "home": 48.684,
+                "over_0_5": 95.84,
+                "over_1_5": 82.63,
+                "over_2_5": 61.602,
+                "over_3_5": 39.316,
+                "over_4_5": 21.593,
+                "under_0_5": 4.16,
+                "under_1_5": 17.37,
+                "under_2_5": 38.391,
+                "under_3_5": 60.678,
+                "under_4_5": 78.401
+            },
+            "stats": {
+                "_id": "64af5b7836ce9f4987553413",
+                "fixtureId": 18805703,
+                "attacks": {
+                    "home": 22,
+                    "away": 20
+                },
+                "ballSafe": {
+                    "home": null,
+                    "away": null
+                },
+                "corners": {
+                    "home": 2,
+                    "away": 0
+                },
+                "dangerousAttacks": {
+                    "home": 16,
+                    "away": 13
+                },
+                "fouls": {
+                    "home": null,
+                    "away": null
+                },
+                "freeKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goalAttempts": {
+                    "home": null,
+                    "away": null
+                },
+                "goalKick": {
+                    "home": null,
+                    "away": null
+                },
+                "goals": {
+                    "home": 1,
+                    "away": 0
+                },
+                "injuries": {
+                    "home": null,
+                    "away": null
+                },
+                "offsides": {
+                    "home": null,
+                    "away": null
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                },
+                "possessiontime": {
+                    "home": 55,
+                    "away": 45
+                },
+                "redcards": {
+                    "home": 0,
+                    "away": 0
+                },
+                "saves": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsBlocked": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsInsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "shotsOffgoal": {
+                    "home": 3,
+                    "away": 3
+                },
+                "shotsOngoal": {
+                    "home": 3,
+                    "away": 0
+                },
+                "shotsOutsidebox": {
+                    "home": null,
+                    "away": null
+                },
+                "substitutions": {
+                    "home": 0,
+                    "away": 0
+                },
+                "tackles": {
+                    "home": null,
+                    "away": null
+                },
+                "throwIn": {
+                    "home": null,
+                    "away": null
+                },
+                "yellowcards": {
+                    "home": 1,
+                    "away": 0
+                },
+                "yellowredcards": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "pressureStats": {
+                "_id": "64af5bc136ce9f4987553e46",
+                "fixtureId": 18805703,
+                "appm1": {
+                    "home": 0.47,
+                    "away": 0.41
+                },
+                "appm2": {
+                    "home": 0.5,
+                    "away": 0.3
+                },
+                "attack_momentum": {
+                    "home": 0,
+                    "away": 7.5
+                },
+                "exg": {
+                    "home": 1.8,
+                    "away": 0.45
+                },
+                "expiresAt": "2023-07-15T02:00:43.335Z",
+                "mh1": {
+                    "home": 42,
+                    "away": 9
+                },
+                "mh2": {
+                    "home": 2,
+                    "away": 4
+                },
+                "mh3": {
+                    "home": 3,
+                    "away": 1
+                }
+            }
+        }
+    ]
+}
