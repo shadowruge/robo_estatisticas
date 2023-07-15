@@ -20,7 +20,7 @@ def index():
     formatted_data = format_data(data)
 
     return render_template('index.html', data=formatted_data)
-
+# Função que estrutura a exibição do dados
 def format_data(data):
     formatted_data = []
     for game in data['data']:
@@ -71,8 +71,8 @@ def format_data(data):
         formatted_data.append(formatted_game)
 
     return formatted_data
-
+# Retire quando colocar em produção
 if __name__ == '__main__':
     app.run()
-    
+# Chama o comando script teste
 app.testes()
