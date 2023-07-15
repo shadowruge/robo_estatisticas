@@ -6,23 +6,26 @@
 </head>
 <body>
     <div class="container">
-            <h1 class="mt-5">Dados JSON</h1>
-    
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="card mt-4">
-                        <div class="card-body">
-                            <h5 class="card-title">Statisticas</h5>
-                            <p class="card-text">
-                                {% for game in data %}
-                                <p class="list-group-item">{{ game }}</p>
-                                <hr>
-                                {% endfor %}</p>
-                            <a href="#" class="btn btn-primary">Leia Mais</a>
-                        </div>
-                    </div>
-                </div>
+        <h1 class="mt-5 text-center">Dados JSON</h1>
+        <div class="row">
+          <div class="col-lg-6 mx-auto">
+            <div class="card mt-4">
+              <div class="card-body">
+                <h5 class="card-title">Estatísticas</h5>
+                <pre>
+                {% for game in data %}
+                 {{ game }}
+                <hr>
+                {% endfor %}
+                </pre>
+                <a href="#" class="btn btn-primary">Leia Mais</a>
+              </div>
             </div>
-</div>
+            
+          </div>
+        </div>
+        
+      </div>
+      
 </body>
 </html>

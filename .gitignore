@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+*.url
+*.json
+page.html
+*./env
+*./venv
+*.yml
