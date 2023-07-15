@@ -9,7 +9,7 @@ def main():
     options.add_argument('--headless')
     options.set_preference("javascript.enabled", False)
     driver = webdriver.Firefox(options=options)
-    url = "https://api.sportsanalytics.com.br/api/v1/fixtures-svc/fixtures/livescores"
+    url = ""
     driver.get(url)
 
     # Obtém o conteúdo da página
@@ -30,7 +30,8 @@ def main():
 
     # Encontra o início do trecho desejado no conteúdo da página
     start_index = page_content.find('{"total"')
-    end_index = page_content.find('</div></div><script src="resource://devtools-client-jsonview/lib/require.js" data-main="resource://devtools-client-jsonview/viewer-config.js"></script></body></html>') 
+    # Adicione aqui o que for retirar do codigo
+    end_index = page_content.find('') 
     # Extrai o conteúdo a partir do início encontrado
     json_content = page_content[start_index:end_index]
 
